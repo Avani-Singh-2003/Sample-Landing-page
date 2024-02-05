@@ -23,7 +23,7 @@ const ImageSlider = () => {
     <div className="items-center flex-col justify-center text-center">
             <h2 className="text-4xl font-bold mb-4">Endless Possibilities</h2>
             <div className=" h-1 ml-[525px] items-center bg-purple-400 w-52 mt-5 mb-5"></div>
-            <h2 className="text-4xl font-bold mb-4">INFINITY</h2>
+            <h2 className="text-4xl font-bold mb-4">Infinity</h2>
 
             <div className="arrow"></div>
 

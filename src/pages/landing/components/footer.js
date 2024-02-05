@@ -20,7 +20,7 @@ return(
 
   <div>
     <h2 class="font-semibold pt-3 text-neutral-300 text-xl md:ps-0  ">About Us</h2>
-    <div class="mt-2 w-20 md:ms-0 ms-28 h-1 rounded-full border-b-2 border-amber-300 "></div>
+    <div class="mt-2 w-20 md:ms-0 ms-28 h-1 rounded-full border-b-2  "></div>
     <div class="text-gray-300 ps-32 md:ps-0">
       <p class="pt-4 cursor-pointer hover:text-white "><a target="_blank" rel="noopener noreferrer"
           href="#">Home</a></p>
@@ -35,7 +35,7 @@ return(
 
   <div class="pr-10 w-96 ">
     <h2 class="font-semibold md:ps-16  ps-28  pt-3 text-neutral-300 text-xl ">Follow Us</h2>
-    <div class="mt-2 w-20 md:ms-16 ms-28  h-1 rounded-full border-b-2 border-amber-300 "></div>
+    <div class="mt-2 w-20 md:ms-16 ms-28  h-1 rounded-full border-b-2  "></div>
 <div class="flex text-white text-3xl">
 <p class="p-4"><i class="fa-brands fa-youtube"></i></p>
 <p class="p-4"><i class="fa-brands fa-instagram"></i></p>
